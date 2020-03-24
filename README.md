@@ -1,2 +1,2 @@
 # cirandeiro
- circular economy project - landing page
+ Circular Project - Fancy Landing Page
